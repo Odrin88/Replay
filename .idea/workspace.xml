@@ -30,9 +30,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node.exe" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Node.js.method.js">
+  <component name="RunManager" selected="Node.js.node.exe">
     <configuration name="cycle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/cycle.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
@@ -42,12 +43,18 @@
     <configuration name="if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/if.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <configuration name="method.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/method.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="node.exe" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="node.exe" working-dir="$PROJECT_DIR$/../../../../Program Files/nodejs">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.cycle.js" />
+      <item itemvalue="Node.js.func.js" />
+      <item itemvalue="Node.js.if.js" />
+      <item itemvalue="Node.js.node.exe" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.method.js" />
+        <item itemvalue="Node.js.node.exe" />
         <item itemvalue="Node.js.func.js" />
         <item itemvalue="Node.js.cycle.js" />
         <item itemvalue="Node.js.if.js" />
@@ -64,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614365502416</updated>
-      <workItem from="1614365505496" duration="14847000" />
+      <workItem from="1614365505496" duration="15150000" />
     </task>
     <task id="LOCAL-00001" summary="add programs">
       <created>1614373025948</created>
@@ -96,6 +103,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="function" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614431452578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614431452578" />
+    <state x="772" y="167" key="FileChooserDialogImpl" timestamp="1614431446621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="772" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614431446621" />
     <state width="746" height="208" key="GridCell.Tab.0.bottom" timestamp="1614430932097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
